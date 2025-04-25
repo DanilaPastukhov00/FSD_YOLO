@@ -1,0 +1,8 @@
+path: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset_reduced
+train: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset_reduced/train/images
+val: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset_reduced/val/images
+
+names:
+  0: smoke
+  1: fire
+

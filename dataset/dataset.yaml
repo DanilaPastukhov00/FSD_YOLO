@@ -1,0 +1,12 @@
+path: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset
+train: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset/train/images
+val: /Users/danilapastuhov/Desktop/dataset_fire_smoke/dataset/val/images
+
+names:
+  0: motorcycle
+  1: bicycle
+  2: wheelchair
+  3: smoke
+  4: fire
+  5: scooter
+  6: person
